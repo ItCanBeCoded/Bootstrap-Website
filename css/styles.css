@@ -28,7 +28,6 @@ p {
 
 .section-heading {
     font-size: 3rem;
-    line-height: 1.5rem;
 }
 
 #title {
@@ -166,7 +165,7 @@ p {
         position: static;
         transform: rotate(0);
     }
-}
+} 
 
 #cta {
     background-color: #ff4c68;
